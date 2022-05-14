@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1022029427743",
+    "firebase_url": "https://ligarpc-871bd-default-rtdb.firebaseio.com",
+    "project_id": "ligarpc-871bd",
+    "storage_bucket": "ligarpc-871bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022029427743:android:3c50956d5a5f1f70f4d12a",
+        "android_client_info": {
+          "package_name": "com.example.ligarpc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022029427743-4amrt7opp2d284q3p99v5q8gm37vt7ne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4Jv1q2RuWOPFH3ALlTlGCwg-V8_TO3O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022029427743-4amrt7opp2d284q3p99v5q8gm37vt7ne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

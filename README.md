@@ -1,0 +1,2 @@
+# WakeOnLanAndroid
+This is a repo with two Android applications to wake a computer, one considering that the PC is on the same private network using WakeOnLan protocol, and one by changing a value in Firebase Database so that an arduino board can wake it in local network.
